@@ -1,5 +1,4 @@
-# 🏥 RBAC-based RAG Medical Chatbot
-
+# 🏥 RAG pdf using OCR
 A secure, role-based access control (RBAC) chatbot designed for healthcare platforms, powered by Retrieval-Augmented Generation (RAG) with FastAPI, MongoDB, Pinecone, and LangChain.
 
 ## 🧠 Overview
